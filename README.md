@@ -1,1 +1,2 @@
 # Integer-infinite-calculator
+Infinite calculator is used for performing infinite addition, subtractions, multiplication and division mathematical calculations. Infinite calculator finds the algebraic calculations of an infinite number of terms in a series. Using infinite multiplication and infinite division properties we can solve the complex mathematical functions like percentage, mean, median, statical operations etc.
